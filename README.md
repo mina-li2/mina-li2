@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Minali ⋆｡°✩
 
-<!--
-**mina-li2/mina-li2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering graduate building projects in AI, agentic AI, and cloud-deployed full-stack systems — currently on the hunt for a AIML engineering role 🌱
 
-Here are some ideas to get you started:
+I love building things — coming up with an idea and figuring out, piece by piece, how to actually make it work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🔭 currently building**
+- [Personal AI Chatbot](https://github.com/mina-li2/personal-ai-chatbot) — a RAG + agentic chatbot that answers questions about my work, deployed live with FastAPI, React, Postgres/pgvector, Groq, and Cohere
+- [PPE Detection System](https://github.com/mina-li2/PPE-Detection) — real-time computer vision safety monitoring using YOLOv5, Flask, and WebSockets
+
+**🛠️ tech i work with**
+
+`Python` `FastAPI` `React` `PostgreSQL` `Docker` `YOLOv5` `LLM APIs (Groq, Cohere)` `Git`
+
+**🌷 a little about me**
+
+outside of code: photography, and always chasing good light
+
+**📫 let's connect**
+
+[LinkedIn](https://www.linkedin.com/in/minali-v-4794b32a4/) · [Email](minnie9720@gmail.com)
+
+<sub>⋆｡‧˚ʚ thanks for stopping by ɞ˚‧｡⋆</sub>
