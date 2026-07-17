@@ -7,8 +7,8 @@ I love building things — coming up with an idea and figuring out, piece by pie
 ---
 
 **🔭 currently building**
-- [Personal AI Chatbot](https://github.com/mina-li2/personal-ai-chatbot) — a RAG + agentic chatbot that answers questions about my work, deployed live with FastAPI, React, Postgres/pgvector, Groq, and Cohere
-- [PPE Detection System](https://github.com/mina-li2/PPE-Detection) — real-time computer vision safety monitoring using YOLOv5, Flask, and WebSockets
+- [Pixel-Player](https://github.com/mina-li2/pixel-player) — A lightweight Y2K desktop music player widget built with Bun, Electron, React, and TanStack Start.
+- [Retrodex](https://github.com/mina-li2/retrodex) — A fan-made, retro GBA-styled Pokédex covering Kanto, Johto, and Hoenn (Gen 1–3) — browse the regional dex, check stats and abilities, and chat with Professor Oak, who looks up real Pokémon data live rather than reciting canned answers.
 
 **🛠️ tech i work with**
 
