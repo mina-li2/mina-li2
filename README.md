@@ -8,7 +8,7 @@ I love building things — coming up with an idea and figuring out, piece by pie
 
 **🔭 currently building**
 - [Pixel-Player](https://github.com/mina-li2/pixel-player) — A lightweight Y2K desktop music player widget built with Bun, Electron, React, and TanStack Start.
-- [Retrodex](https://github.com/mina-li2/retrodex) — A fan-made, retro GBA-styled Pokédex covering Kanto, Johto, and Hoenn (Gen 1–3) — browse the regional dex, check stats and abilities, and chat with Professor Oak, who looks up real Pokémon data live rather than reciting canned answers.
+- [Retrodex](https://github.com/mina-li2/retrodex) — A retro GBA-styled Pokédex for Gen 1-3 with an LLM-powered Prof. Oak chatbot that queries live Pokémon data.
 
 **🛠️ tech i work with**
 
