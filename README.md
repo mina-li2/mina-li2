@@ -7,8 +7,8 @@ I love building things — coming up with an idea and figuring out, piece by pie
 ---
 
 **🔭 currently building**
-- [Pixel-Player](https://github.com/mina-li2/pixel-player) — A lightweight Y2K desktop music player widget built with Bun, Electron, React, and TanStack Start.
-- [Retrodex](https://github.com/mina-li2/retrodex) — A retro GBA-styled Pokédex for Gen 1-3 with an LLM-powered Prof. Oak chatbot that queries live Pokémon data.
+- [Naari-and-Noor](https://github.com/mina-li2/naari-and-noor-showcase) — Serverless booking and payments platform for an independent tarot practice. Cloudflare Workers, D1, Razorpay, PayPal. Source code private, available on request.
+- [Polyp Detection](https://github.com/mina-li2/polyp-detection-domain-shift) — Real-time colorectal polyp detection (YOLO11) trained at one hospital and tested at another, measuring domain shift and choosing a screening threshold that prioritises sensitivity.
 
 **🛠️ tech i work with**
 
